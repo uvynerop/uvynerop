@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @uvynerop
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on coding 
-- 📫 How to reach me uvynerop@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: loading
+
 
 <h1 align="center">Hi 👋, I'm Uvyne Rop</h1>
 <h3 align="center">A passionate fullstack software engineer and a bubble app developer from kenya</h3>
