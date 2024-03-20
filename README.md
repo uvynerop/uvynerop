@@ -1,10 +1,11 @@
-
-
 <h1 align="center">Hi 👋, I'm Uvyne Rop</h1>
-<h3 align="center">A passionate fullstack software engineer and a bubble app developer from kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc3N3hrMjdneTRrOGs3N21iZ2k4YXFobW1uZ3ZuaWphYm16bjd1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qirCCfnNxpdNnn5VeS/giphy.gif">
+<h3 align="center">A passionate fullstack software engineer and a bubble app developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uvynerop&label=Profile%20views&color=0e75b6&style=flat" alt="uvynerop" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uvynerop" alt="uvynerop" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **software engineering**
 
@@ -33,8 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvynerop&show_icons=true&locale=en" alt="uvynerop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvynerop&" alt="uvynerop" /></p>
-"
-<!---
-uvynerop/uvynerop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
