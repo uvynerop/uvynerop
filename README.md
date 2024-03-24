@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **uvynerop@gmail.com**
 
-- ⚡ Fun fact **They say am crazy**
+- ⚡ Fun fact **My social life is messed up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
